@@ -1,0 +1,148 @@
+/*--------------- (Start) Top header Part ----------------*/
+.top-header {
+  width: 100%;
+}
+.top-info {
+  text-align: left;
+}
+.top-pic {
+  text-align: right;
+}
+/*--------------- (End) Top header Part ----------------*/
+
+
+
+
+
+/*--------------- (Start) Education Qualification Part ----------------*/
+.edu-bsc-cap {
+  text-align: left;
+  background-color: rgb(173, 170, 175);
+  font-weight: bold;
+}
+.edu-bsc {
+  width: 100%;
+  /*border: 1px solid;*/
+}
+.td-edu,
+.tr-edu {
+  /*border: solid;*/
+  width: 50%;
+  text-align: left;
+}
+/*--------------- (End) Education Qualification Part ----------------*/
+
+
+
+
+
+/*--------------- (Start) Professional Qualification Part ----------------*/
+.tr-pro-que {
+  background-color: rgb(173, 170, 175);
+  width: 50%;
+  text-align: left;
+}
+.td-pro-que {
+  background-color: rgb(235, 234, 236);
+  width: 50%;
+  text-align: left;
+}
+/*--------------- (End) Professional Qualification Part ----------------*/
+
+
+
+
+
+/*--------------- (Start) Work Experience Part ----------------*/
+.work-exp {
+  width: 100%;
+  /*border: 1px solid;*/
+}
+#work-td-1st {
+  /*border:  solid;*/
+  width: 40%;
+  font-size: 20px;
+}
+#work-td-2nd {
+  /*border:  solid;*/
+  width: 10%;
+}
+#work-td-3rd {
+  /*border:  solid;*/
+  width: 50%;
+}
+/*--------------- (End) Work Experience Part----------------*/
+
+
+
+
+
+/*--------------- (Start) Language Part ----------------*/
+.lan-table {
+ width: 100%;
+ text-align: center;
+ border: 1px solid;
+ border-collapse: collapse;
+} 
+.lan-th{
+  border: 1px solid; 
+}
+.lan-td{
+  border: 1px solid;
+}
+/*--------------- (End) Language Part ----------------*/
+
+
+
+
+
+/*--------------- (Start) Personal Details Part ----------------*/
+.per-table {
+  width: 100%;
+}
+.pre-td-1st {
+  width: 50%;
+}
+.pre-td-2nd{
+  width: 50%;
+}
+/*--------------- (End) Personal Details Part ----------------*/
+
+
+
+
+
+
+/*--------------- (Start) Declaration Part ----------------*/
+.decla-table{
+  width: 100%;
+  border: 1px;
+}
+.decla-td-1st{
+  width: 50%;
+}
+.decla-td-2nd{
+  width: 50%;
+  text-align: right;
+}
+/*--------------- (End) Declaration Part ----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
